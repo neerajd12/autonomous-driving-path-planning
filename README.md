@@ -31,3 +31,8 @@ logic to decide lane and speed of the car is in "decide_lane_and_speed" function
 * The speed is continously increased untill it reaches the max safe speed and the cost of the lane is zero.
 * If the lane cost is not zero the speed is continously reduced with no lower bounds.
 * Speed is reduced at a faster rate compared to increasing it. This helps in better stopping.
+
+
+### Trajectory Generation in Simulation
+
+[![Track 1](https://i.ytimg.com/vi/sEtQH85pEWY/1.jpg?time=1504362675270)](https://youtu.be/sEtQH85pEWY)
